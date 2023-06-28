@@ -1,0 +1,15 @@
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\bin\Debug\net7.0\1_Block.exe
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\bin\Debug\net7.0\1_Block.deps.json
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\bin\Debug\net7.0\1_Block.runtimeconfig.json
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\bin\Debug\net7.0\1_Block.dll
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\bin\Debug\net7.0\1_Block.pdb
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.csproj.AssemblyReference.cache
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.AssemblyInfoInputs.cache
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.AssemblyInfo.cs
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.csproj.CoreCompileInputs.cache
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.dll
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\refint\1_Block.dll
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.pdb
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\1_Block.genruntimeconfig.cache
+C:\Users\111\OneDrive\Рабочий стол\Itogovaya rabota\1_Block\obj\Debug\net7.0\ref\1_Block.dll
